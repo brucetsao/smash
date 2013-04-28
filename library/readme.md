@@ -1,0 +1,1 @@
+Yeah. The pins are statically set. Buy a new ATmega. They're $5.
