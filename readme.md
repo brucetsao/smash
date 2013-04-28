@@ -1,4 +1,6 @@
-### What is Smash?
+Proof of concept dtmf data protocol. Never got it working over actual radio waves, got it working remotely, at 50baud-ish using only a sound cable.
+
+<del>### What is Smash?
 Well Smash! is a DTMF RC and Data protocol. It's more-or-less an idea I had about how to use my existing expensive radio equipment for controlling things afar. The code works, but somehow it's currently a flunk. My DTMF generator either can't generate the amplitude needed to trigger the reciever or the radio can't handle 16ms long sounds with great efficency. I mean the radio cost $100... But I guess I can still blame it.
 
 ### How well does it work?
@@ -10,4 +12,4 @@ Boats. RC boats.
 Yeah. I was going to use my amateur radio equipment on an RC boat. Why? Because I can't afford two way radios. That sounds like a conundrum. It is. XBEEs are the best choice for the job but I'm too broke to consider that. But hey, YOU'RE WELCOME when you're sending something to space and this turns out to be the best option.
 
 ### Anything else?
-yeah. I hope this thing works someday.
+yeah. I hope this thing works someday.</del>
